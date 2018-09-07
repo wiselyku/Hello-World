@@ -1,3 +1,3 @@
 # This is title
-![ picture one ](/Hello-World/Markdown/pic.jpg)
+![ picture one ](/Markdown/pic.jpg)
 
